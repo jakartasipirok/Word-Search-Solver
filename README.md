@@ -11,4 +11,4 @@
  - `gcc -c main.c`
    `gcc main.c -o main ./main`
  - follow the instruction
- - for file input, use this format `../test/{namafile}.txt`
+ - for file input, use this format `../test/{filename}.txt`
